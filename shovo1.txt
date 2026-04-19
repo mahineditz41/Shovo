@@ -1,2 +1,0 @@
-pip install python-telegram-bot aiohttp
-python video_bot.py
